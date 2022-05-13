@@ -4,6 +4,7 @@
 ## JsonPowerDB
 > This mini-project performs CRUD operations using JsonPowerDB.
 > JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
+![This is an image](JSPDB.png)
 ## Some features of JsonPowerDB are:
 * Nimble, simple to use, in memory, real time
 * Schema free - easy to maintain
